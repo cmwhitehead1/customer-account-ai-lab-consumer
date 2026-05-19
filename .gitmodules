@@ -1,0 +1,3 @@
+[submodule ".shared-ai"]
+	path = .shared-ai
+	url = git@github.com:cmwhitehead1/customer-account-ai-lab.git
